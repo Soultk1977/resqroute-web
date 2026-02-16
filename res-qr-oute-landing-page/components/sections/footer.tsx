@@ -89,7 +89,7 @@ export function Footer() {
           <div className="max-w-md">
             <div className="flex items-center gap-2 mb-4">
               <Image
-                src="/logo.png""
+                src="/logo.png"
                 alt="ResQRoute logo"
                 width={32}
                 height={32}
