@@ -82,7 +82,7 @@ export function RealitySliderSection() {
             {/* After image (bottom layer - engineer) */}
             <div className="absolute inset-0">
               <Image
-                src="/images/work.jpg"
+                src="/work.jpg"
                 alt="Engineer soldering a PCB at 3 AM - the engineering reality"
                 fill
                 className="object-cover"
@@ -116,7 +116,7 @@ export function RealitySliderSection() {
               style={{ clipPath: `inset(0 ${100 - sliderPos}% 0 0)` }}
             >
               <Image
-                src="/images/drawing.jpg"
+                src="/drawing.jpg"
                 alt="Child's crayon drawing of fire truck concept - the original dream"
                 fill
                 className="object-cover"
