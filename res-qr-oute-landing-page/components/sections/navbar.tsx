@@ -43,7 +43,7 @@ export function Navbar() {
             data-hover
           >
             <Image
-              src="/images/logo.png"
+              src="/logo.png""
               alt="ResQRoute logo"
               width={40}
               height={40}
