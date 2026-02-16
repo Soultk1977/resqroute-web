@@ -14,7 +14,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   // This tells Next.js where your site lives. Change this if you buy a different domain.
-  metadataBase: new URL('https://resqroute.in'),
+  metadataBase: new URL('https://resqroute.vercel.app/'),
 
   title: "ResQRoute | Saving Lives at the Speed of Light",
   description:
